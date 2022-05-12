@@ -10,10 +10,10 @@
 ### Connect with me:
 
 [![website](https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](https://en.m.wikipedia.org/wiki/File:Instagram_logo_2016.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
