@@ -15,7 +15,7 @@
 [![website](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](https://en.m.wikipedia.org/wiki/File:Instagram_logo_2016.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png =50x50)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
