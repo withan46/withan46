@@ -37,7 +37,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withan46&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+1. An update is expected.....
 <!--END_SECTION:activity-->
 
 </details>
