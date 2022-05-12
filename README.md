@@ -12,7 +12,8 @@
 <a href= https://twitter.com/thanasis1000000/> <img width ='40px' src ='https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png'> </a>
 <a href= https://www.linkedin.com/in/thanasis-emmanouilidis-7b6139223//> <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png'> </a>
 <a href= https://github.com/withan46/> <img width ='40px' src ='https://github.githubassets.com/images/modules/logos_page/Octocat.png'> </a>
-<a href= https://github.com/pnasis/> <img width ='40px' src='https://camo.githubusercontent.com/ce7d984a9a92f8f610e17795df90bad1fc2ac27f42078bd26db5f67395fbf62a/68747470733a2f2f637369732e706163652e6564752f7e736368617266662f706163656d6f62696c656c61622f696d616765732f6769746875622e6a7067'> </a>
+<!-- <a href= https://www.facebook.com/profile.php?id=100052973121618/> <img width ='40px' src='https://image.similarpng.com/very-thumbnail/2020/04/Popular-facebook-Logo-png.png'> </a>
+<a href= https://www.instagram.com/than_emman_//> <img width ='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png'> </a> -->
 
 
 ### Languages and Tools:
