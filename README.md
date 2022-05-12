@@ -9,12 +9,21 @@
 
 ### Connect with me:
 
+[![website](https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](https://en.m.wikipedia.org/wiki/File:Instagram_logo_2016.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-<a href= https://www.twitter.com/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'> </a>
-<a href= https://github.com/> <img width ='32px' src='https://camo.githubusercontent.com/ce7d984a9a92f8f610e17795df90bad1fc2ac27f42078bd26db5f67395fbf62a/68747470733a2f2f637369732e706163652e6564752f7e736368617266662f706163656d6f62696c656c61622f696d616765732f6769746875622e6a7067'> </a>
-<a href= https://facebook.com/> <img width ='32px' src='https://symbols.getvecta.com/stencil_81/49_gitlab-icon.f53b6eea7f.png'> </a>
-<a href= https://instagram.com/> <img width ='32px' src='https://en.m.wikipedia.org/wiki/File:Instagram_logo_2016.svg'> </a>
-<a href= https://www.linkedin.com/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'> </a>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
