@@ -9,6 +9,7 @@
 ### Connect with me:
 
 <a href= https://twitter.com/thanasis1000000/> <img width ='40px' src ='https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png'> </a>
+<a href= https://stackoverflow.com/users/19181095/thanasis-emmanouilidis/> <img width ='40px' src ='https://w7.pngwing.com/pngs/69/539/png-transparent-stack-overflow-stack-exchange-programmer-logo-others.png'> </a>
 <a href= https://www.linkedin.com/in/thanasis-emmanouilidis-7b6139223//> <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png'> </a>
 <a href= https://github.com/withan46/> <img width ='40px' src ='https://github.githubassets.com/images/modules/logos_page/Octocat.png'> </a>
 
