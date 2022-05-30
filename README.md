@@ -2,7 +2,7 @@
 
 
 ## I am a university student and I am studying Applied Computer science at the University of Macedonia! 🖥️
-<img src="ezgif.com-gif-maker.gif" />
+<img src="hello-world.gif" alt="description of myfile.gif" /> 
 
 - 🥅 My goal is to never stop learning new stuff
 - 🤝 I am looking to collaborate with other programmers or designers
