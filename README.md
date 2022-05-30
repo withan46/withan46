@@ -1,8 +1,7 @@
-### Hi there, Thanasis - Emmanouilidis 👋 
+<img src="hello-world.gif" alt="description of myfile.gif" />  
 
-
+# My name is Thanasis - Emmanouilidis 👋 
 ## I am a university student and I am studying Applied Computer science at the University of Macedonia! 🖥️
-<img src="hello-world.gif" alt="description of myfile.gif" /> 
 
 - 🥅 My goal is to never stop learning new stuff
 - 🤝 I am looking to collaborate with other programmers or designers
@@ -39,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. An update is expected.....
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=withan46&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs">
 <!--END_SECTION:activity-->
 
 </details>
@@ -50,3 +49,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=withan46&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+
