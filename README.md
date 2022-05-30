@@ -1,7 +1,7 @@
 <img src="hello-world.gif" alt="description of myfile.gif" />  
 
 # My name is Thanasis - Emmanouilidis 👋 
-## I am a university student and I am studying Applied Computer science at the University of Macedonia! 🖥️
+## I am a university student and I am studying Applied Computer science at University of Macedonia! 🖥️
 
 - 🥅 My goal is to never stop learning new stuff
 - 🤝 I am looking to collaborate with other programmers or designers
